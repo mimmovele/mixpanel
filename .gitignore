@@ -3,6 +3,6 @@ vendor/bundle
 mixpanel*.gem
 Gemfile.lock
 .rvmrc
-./idea
+/.idea
 .ruby-gemset
 .ruby-version
