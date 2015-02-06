@@ -1,3 +1,10 @@
+February 2015
+-------------
+
+* Bump: 4.1.2 Feb 6, 2015
+
+* Update Mailjet snippet to load new lib: //cdn.mxpnl.com/libs/mixpanel-2-latest.min.js
+
 November 2013
 --------------
 

@@ -1,3 +1,5 @@
+Gem forked to get the latest Mixpanel library (Feb 6 2015, //cdn.mxpnl.com/libs/mixpanel-2-latest.min.js)
+
 # Important News
 
 This Gem will not be maintained anymore, there is an Official gem being developed and we encourage you to use that gem from now on.
